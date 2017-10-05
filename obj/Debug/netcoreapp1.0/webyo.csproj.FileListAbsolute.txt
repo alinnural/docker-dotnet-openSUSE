@@ -1,0 +1,10 @@
+/home/alinnural/git/webyo/bin/Debug/netcoreapp1.0/webyo.deps.json
+/home/alinnural/git/webyo/bin/Debug/netcoreapp1.0/webyo.runtimeconfig.json
+/home/alinnural/git/webyo/bin/Debug/netcoreapp1.0/webyo.runtimeconfig.dev.json
+/home/alinnural/git/webyo/bin/Debug/netcoreapp1.0/webyo.dll
+/home/alinnural/git/webyo/bin/Debug/netcoreapp1.0/webyo.pdb
+/home/alinnural/git/webyo/obj/Debug/netcoreapp1.0/webyo.csproj.CoreCompileInputs.cache
+/home/alinnural/git/webyo/obj/Debug/netcoreapp1.0/webyo.AssemblyInfoInputs.cache
+/home/alinnural/git/webyo/obj/Debug/netcoreapp1.0/webyo.AssemblyInfo.cs
+/home/alinnural/git/webyo/obj/Debug/netcoreapp1.0/webyo.dll
+/home/alinnural/git/webyo/obj/Debug/netcoreapp1.0/webyo.pdb
